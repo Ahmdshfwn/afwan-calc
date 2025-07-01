@@ -1,2 +1,2 @@
 # afwan-calc
-Ini kalkulatir sederhana yang mudah dan efisien untuk di gunakan
+Ini kalkulator sederhana yang mudah dan efisien untuk di gunakan
